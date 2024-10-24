@@ -23,3 +23,6 @@ gem "safe_yaml", "~> 1.0.5"
 
 # Makes site ready for GH Pages deployment
 gem 'github-pages', '~> 232'
+
+# Additional Plugins
+gem 'jekyll-watch', '~> 2.2', '>= 2.2.1'
