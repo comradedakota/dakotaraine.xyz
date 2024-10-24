@@ -20,3 +20,6 @@ gem 'jekyll-seo-tag', '~> 2.8'
 # Add gems that will no longer be included in Ruby >= 3.4.0
 gem "bigdecimal", "~> 3.1.4"
 gem "safe_yaml", "~> 1.0.5"
+
+# Makes site ready for GH Pages deployment
+gem 'github-pages', '~> 232'
