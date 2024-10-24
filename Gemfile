@@ -26,3 +26,4 @@ gem 'github-pages', '~> 232'
 
 # Additional Plugins
 gem 'jekyll-watch', '~> 2.2', '>= 2.2.1'
+gem 'faraday-retry', '~> 2.2'
