@@ -4,6 +4,9 @@ title: About Dakota
 permalink: /about/
 ---
 
+
+<img src="/assets/images/about.webp" alt="Dakota Raine" style="float:right;margin:1rem;">
+
 It's always felt awkward to write about myself in the third person, so I'll keep this as informal as possible. My name is Dakota. No "About" page on a blog is ever going to truly capture the essence of who I am, let alone the full-story... So, for now I'll just tell you that I am:
 
 - constantly questioning my understanding of the world around me.
